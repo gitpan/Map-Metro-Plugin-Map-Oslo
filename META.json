@@ -38,6 +38,17 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.1000"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Csson/p5-Map-Metro-Oslo/issues"
+      },
+      "homepage" : "https://github.com/Csson/p5-Map-Metro-Oslo",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/Csson/p5-Map-Metro-Oslo.git",
+         "web" : "https://github.com/Csson/p5-Map-Metro-Oslo"
+      }
+   },
+   "version" : "0.1001"
 }
 

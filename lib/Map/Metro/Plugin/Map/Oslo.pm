@@ -1,7 +1,7 @@
 use 5.14.0;
 
 package Map::Metro::Plugin::Map::Oslo  {
-$Map::Metro::Plugin::Map::Oslo::VERSION = '0.1000';
+$Map::Metro::Plugin::Map::Oslo::VERSION = '0.1001';
 use Moose;
     use File::ShareDir 'dist_dir';
     use Path::Tiny;
