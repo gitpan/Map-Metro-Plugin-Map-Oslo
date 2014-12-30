@@ -1,5 +1,13 @@
 Revision history for Map-Metro-Plugin-Map-Oslo
 
+0.1100 2014-12-30T22:35:09Z CET
+ [Enhancements]
+ - Changes in Map::Metro 0.1900 now makes it possible to correctly map the
+   one-way nature of Gulleråsen station.
+
+ [Meta]
+ - Bumped Map::Metro requirement to 0.1900.
+
 0.1001 2014-12-28T22:22:04Z CET
  [Meta]
  - Github is the repo and issue tracker.

@@ -134,8 +134,9 @@ Storo
 1|Besserud|Midtstuen
 1|Midtstuen|Skådalen
 1|Skådalen|Vettakollen
-1|Vettakollen|Gulleråsen
-1|Gulleråsen|Gråkammen
+1<-|Vettakollen|Gulleråsen
+1<-|Gulleråsen|Gråkammen
+1->|Vettakollen|Gråkammen
 1|Gråkammen|Slemdal
 1|Slemdal|Ris
 1|Ris|Gaustad
