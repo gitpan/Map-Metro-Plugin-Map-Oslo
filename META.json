@@ -35,6 +35,18 @@
             "Test::NoTabs" : "0",
             "Test::Pod" : "1.41"
          }
+      },
+      "runtime" : {
+         "requires" : {
+            "Map::Metro" : "0.1900",
+            "Moose::Role" : "2.0000",
+            "perl" : "5.014000"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Test::NoTabs" : "0"
+         }
       }
    },
    "release_status" : "stable",
@@ -49,6 +61,6 @@
          "web" : "https://github.com/Csson/p5-Map-Metro-Oslo"
       }
    },
-   "version" : "0.1100"
+   "version" : "0.1101"
 }
 

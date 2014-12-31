@@ -1,5 +1,9 @@
 Revision history for Map-Metro-Plugin-Map-Oslo
 
+0.1101 2014-12-31T17:02:50Z CET
+ [Meta]
+ - Fixed prereqs.
+
 0.1100 2014-12-30T22:35:09Z CET
  [Enhancements]
  - Changes in Map::Metro 0.1900 now makes it possible to correctly map the

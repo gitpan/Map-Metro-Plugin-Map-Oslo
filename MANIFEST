@@ -6,6 +6,7 @@ MANIFEST
 META.json
 META.yml
 README
+cpanfile
 dist.ini
 lib/Map/Metro/Plugin/Map/Oslo.pm
 share/map-oslo.metro

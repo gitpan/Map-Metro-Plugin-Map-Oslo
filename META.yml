@@ -2,7 +2,8 @@
 abstract: 'Map::Metro map for Oslo'
 author:
   - 'Erik Carlsson <info@code301.com>'
-build_requires: {}
+build_requires:
+  Test::NoTabs: '0'
 configure_requires:
   Module::Build::Tiny: '0.039'
 dynamic_config: 0
@@ -20,8 +21,12 @@ no_index:
     - share
     - eg
     - examples
+requires:
+  Map::Metro: '0.1900'
+  Moose::Role: '2.0000'
+  perl: '5.014000'
 resources:
   bugtracker: https://github.com/Csson/p5-Map-Metro-Oslo/issues
   homepage: https://github.com/Csson/p5-Map-Metro-Oslo
   repository: https://github.com/Csson/p5-Map-Metro-Oslo.git
-version: '0.1100'
+version: '0.1101'
